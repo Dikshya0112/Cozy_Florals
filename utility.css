@@ -1,0 +1,207 @@
+h1 {
+    font-size: 64px;
+    line-height: 70px;
+    color: #222;
+}
+
+h2 {
+    font-size: 64px;
+    line-height: 57px;
+    color: #222;
+}
+
+h4 {
+    font-size: 32px;
+
+    color: #222;
+}
+
+h6 {
+    font-weight: 700;
+    color: #222;
+}
+
+p {
+    font-size: 25px;
+    color: #465b52;
+    margin: 15px 0 20px 0;
+}
+
+.section1-p1 {
+    padding: 40px 80px;
+
+}
+
+.section1-m1 {
+    margin: 40px 0;
+}
+
+body {
+    width: 100%;
+    position: absolute;
+}
+
+
+.shopHead h2 {
+    color: white;
+}
+
+.shopHead p {
+    color: white;
+}
+
+
+.sin-pro-det h6 {
+    font-size: 20px;
+}
+
+.sin-pro-det h2 {
+    font-size: 35px;
+}
+
+.sin-pro-det h4 {
+    margin-top: 35px;
+}
+
+.abouthead h2 {
+    color: black;
+}
+
+#contactdetails .details span {
+    font-size: 40px;
+}
+
+#form-details form span {
+    font-size: 40px;
+}
+
+#contactdetails .details h2 {
+    font-size: 40px;
+}
+
+#form-details form h2 {
+    font-size: 40px;
+}
+
+
+#coupon h3{
+   padding-bottom: 15px;
+}
+@media only screen and (max-width: 1101px) {
+    h2 {
+        font-size: 53px;
+    }
+
+    h1 {
+        font-size: 53px;
+    }
+
+    p {
+        font-size: 21px;
+    }
+
+}
+
+@media only screen and (max-width: 961px) {
+    h2 {
+        font-size: 49px;
+    }
+
+    h1 {
+        font-size: 49px;
+    }
+
+    p {
+        font-size: 18px;
+
+    }
+
+    h4 {
+        font-size: 30px;
+    }
+
+    .hero p {
+        margin-top: 40px;
+        font-weight: bold;
+    }
+}
+
+@media only screen and (max-width: 651px) {
+    h2 {
+        font-size: 33px;
+    }
+
+    h4 {
+        font-size: 26px;
+    }
+
+    h1 {
+        font-size: 33px;
+    }
+
+    .hero p {
+        margin-top: 50px;
+        color: #b6b5b5;
+    }
+    #contactdetails .details h2 {
+        font-size: 30px;
+    }
+}
+
+@media only screen and (max-width: 539px) {
+    .hero p {
+
+        color: white;
+        margin: 0;
+    }
+
+    .hero h2 {
+        color: #008377;
+    }
+
+    .hero h4 {
+        color: white;
+    }
+
+    .banner h2 {
+        line-height: 45px;
+
+    }
+}
+
+@media only screen and (max-width: 375px) {
+    .pro h5 {
+        font-size: 17px;
+    }
+
+    .hero h1 {
+
+        font-size: 31px;
+    }
+
+    .hero h2 {
+
+        font-size: 26px;
+    }
+
+    .hero h4 {
+
+        font-size: 22px;
+    }
+
+    .hero p {
+
+        font-size: 14px;
+    }
+
+    h2 {
+        font-size: 30px;
+    }
+
+    .bb2 h2 {
+        line-height: 30px;
+    }
+    #form-details form h2 {
+        font-size: 14px;
+    }
+}
